@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1397791773 source:e:\google drive\inb371\assignment\bridge\bridge.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"game.h"
+
+1397801412 e:\google drive\inb371\assignment\bridge\game.h
+	"hand.h"
+	"deck.h"
+	<iostream>
+	<iomanip>
+
+1397799923 e:\google drive\inb371\assignment\bridge\hand.h
+	<vector>
+	<iostream>
+	<iomanip>
+	"card.h"
+
+1397805563 e:\google drive\inb371\assignment\bridge\card.h
+	<string>
+
+1397891787 e:\google drive\inb371\assignment\bridge\deck.h
+	<iostream>
+	<iomanip>
+	"card.h"
+	"random.h"
+
+1397892492 e:\google drive\inb371\assignment\bridge\random.h
+
+1397806996 source:e:\google drive\inb371\assignment\bridge\card.cpp
+	"card.h"
+
+1397891848 source:e:\google drive\inb371\assignment\bridge\deck.cpp
+	"deck.h"
+
+1397809721 source:e:\google drive\inb371\assignment\bridge\game.cpp
+	"game.h"
+
+1397803653 source:e:\google drive\inb371\assignment\bridge\hand.cpp
+	"hand.h"
+	<algorithm>
+
+1394518189 source:e:\google drive\inb371\assignment\bridge\random.cpp
+	<cstdlib>
+	<ctime>
+	"random.h"
+
